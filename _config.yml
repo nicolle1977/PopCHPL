@@ -1,5 +1,0 @@
-name: Protecting Our Past
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-
-remote-theme: fongandrew/hydeout
